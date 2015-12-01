@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1404386441
-ModificationTime: 1448994998
+ModificationTime: 1448995711
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -65,7 +65,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 34 34 12
+WinInfo: 204 34 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4639,13 +4639,13 @@ StartChar: zacute
 Encoding: 378 378 237
 Width: 360
 VWidth: 0
+Flags: H
 HStem: 0 89<114 335> 356 89<25 246> 485 133
 VStem: 25 310<0 89 356 445>
 LayerCount: 2
 Fore
-Refer: 66 180 S 1 0 0 1 92 -181 2
+Refer: 71 -1 N 1 0 0 1 110 -162 2
 Refer: 192 122 N 1 0 0 1 0 0 3
-Validated: 9
 EndChar
 
 StartChar: longs
@@ -5614,7 +5614,7 @@ HStem: 0 73<117.026 158 202 242.974> 187 69<117.026 158 202 242.974> 371 73<118.
 VStem: 25 89<76.6365 117 259.543 300 327 365.309> 246 89<77.7085 117 143 182.38 326 365.309>
 LayerCount: 2
 Fore
-Refer: 71 -1 N 1 0 0 1 110 -162 2
+Refer: 71 -1 S 1 0 0 1 110 -162 2
 Refer: 189 115 N 1 0 0 1 0 0 3
 Validated: 9
 EndChar
